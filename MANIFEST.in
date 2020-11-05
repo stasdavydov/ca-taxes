@@ -1,0 +1,6 @@
+include pyproject.toml
+include *.md
+include LICENSE
+recursive-include ca_taxes/management *
+recursive-include ca_taxes/migrations *
+
