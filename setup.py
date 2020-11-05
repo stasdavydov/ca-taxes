@@ -19,7 +19,8 @@ setup(
     author_email="davidovsv@yandex.ru",
     license="Unlicense License",
     classifiers=[
-        "License :: OSI Approved :: Unlicense License",
+        "Development Status :: 4 - Beta",
+        "License :: OSI Approved :: The Unlicense (Unlicense)",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
     ],
